@@ -4,7 +4,7 @@
 #include <time.h>
 
 int main(int argc, char *argv[]) {
-	 // call a function in another file
+	 // call a function in another file 
  // myPrintHelloMake();
   if (argc != 4) {
     printf("Please enter: %s rowsNumber columnsNumber file_name.txt \n", argv[0]);
